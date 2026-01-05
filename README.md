@@ -2,7 +2,7 @@
 
 **Submitted by:** Gaurav Phule
 **Role:** Backend Engineering Intern
-**Date:** January 2026
+**Date:** 5 January 2026
 
 [![View Documentation](https://img.shields.io/badge/Documentation-Google%20Doc-blue?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1KbJtv6MTdBUgtBnEgy1s7ZzSwvvOxvHNvxGW2QEllOI/edit?usp=sharing)
 
